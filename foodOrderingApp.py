@@ -479,7 +479,7 @@ Please select from the followiing options:
             print("Already a user.\n")
     elif user_option == "3":
         while True:
-            user_input = input("Enter 'yes' for confirmation to login.\n")
+            user_input = input("Enter 'yes' for confirmation to login 'no' for log out.\n")
             if user_input.lower()=="yes":    
                 res = user_login()
                 if res[0] == "sucess":
@@ -490,7 +490,7 @@ Please select from the followiing options:
                     print("User not found")
                 elif res[0] == "not_registered":
                     print("No user found, please register with us\n")
-            elif user_input.lower()=="n":
+            elif user_input.lower()=="no":
                 print("Logged Out.\n")
                 break
             else:
