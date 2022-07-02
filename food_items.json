@@ -1,0 +1,32 @@
+{
+    "1": {
+        "Name": "Tandoori Chicken",
+        "Quantity": "(4 piece)",
+        "Price": 240,
+        "Discount": "10%"
+    },
+    "2": {
+        "Name": "Vegan Burger",
+        "Quantity": "(1 Piece)",
+        "Price": 320,
+        "Discount": "8%"
+    },
+    "3": {
+        "Name": "Tuffle Cake",
+        "Quantity": "(500 gm)",
+        "Price": 900,
+        "Discount": "16%"
+    },
+    "4": {
+        "Name": "abcd",
+        "Quantity": "100",
+        "Price": 100,
+        "Discount": "10"
+    },
+    "5": {
+        "Name": "abcd",
+        "Quantity": "100",
+        "Price": 500,
+        "Discount": "50"
+    }
+}
